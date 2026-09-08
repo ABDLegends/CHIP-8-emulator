@@ -58,12 +58,6 @@ redistributed under separate licenses). Good public sources:
   [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) —
   test ROMs for verifying opcode correctness
 
-Drop any `.ch8` file into the `roms/` folder (or anywhere else) and point
-`main.py` at it.
-
-Good first ROMs to try: **IBM Logo** (barely any opcodes, good sanity check),
-**Pong**, **Tetris**, **Space Invaders**.
-
 ## How it works
 
 The whole emulator is one loop, repeated ~60 times a second:
