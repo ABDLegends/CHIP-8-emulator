@@ -18,6 +18,11 @@ fetch-decode-execute loop, and a real instruction set.
 - Delay and sound timers running at the correct 60 Hz
 - ~200 lines, one file, easy to read start to finish
 
+
+## Demo
+
+![CHIP-8 emulator running Pong](demo.GIF)
+
 ## Getting started
 
 ### Requirements
